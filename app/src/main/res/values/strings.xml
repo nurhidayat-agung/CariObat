@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CariObat</string>
+
+    <string name="title_activity_cari_obat">CariObat</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
